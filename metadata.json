@@ -1,0 +1,5 @@
+{
+  "name": "System Design Evaluation Portal",
+  "description": "A portal for users to design software systems step-by-step and receive an AI-powered evaluation of their design based on components, architecture, and trade-offs.",
+  "requestFramePermissions": []
+}
